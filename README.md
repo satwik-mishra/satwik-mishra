@@ -1,5 +1,5 @@
 # 💫 About Me:
-Building full-stack web applications and enhancing my cybersecurity skills.<br>Cybersecurity research projects, full-stack development, and open-source contributions.<br>Interview preparation, competitive programming, and backend architecture.<br>Backend development, DSA and cybersecurity concepts.<br>Frontend development, JavaScript, React, cybersecurity basics, basic web exploits, and DSA.<br>I love playing badminton and can smash better than I debug 😄
+I am currently building full-stack web applications and enhancing my cybersecurity skills.<br>I am looking to collaborate on Cybersecurity research projects, full-stack development, and open-source contributions.<br>I am looking for help with Interview preparation, DSA, and backend architecture.<br>I am currently learning Backend development, DSA and cybersecurity concepts.<br>I love playing badminton and can smash better than I debug 😄
 
 
 ## 🌐 Socials:
