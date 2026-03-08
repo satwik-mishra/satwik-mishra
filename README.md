@@ -1,5 +1,5 @@
 # 💫 About Me:
-practicing Data Structures and Algorithms and Cybersecurity Projects.<br>on open-source web development and security tools.<br>advanced backend development and real-world security research.<br>Full Stack development, Data Structures & Algorithms, and Web Security.<br>HTML, CSS, JavaScript, Python basics, and beginner cybersecurity<br>I enjoy breaking systems to understand how to secure them
+🔭 I’m currently working on DSA practice and cybersecurity projects<br><br>👯 I’m looking to collaborate on open-source web development and security tools<br><br>🤝 I’m looking for help with advanced backend development and real-world security research<br><br>🌱 I’m currently learning Java backend development, Data Structures & Algorithms, and Web Security<br><br>💬 Ask me about HTML, CSS, JavaScript, Python basics, and beginner cybersecurity<br><br>⚡ Fun fact: I enjoy breaking systems to understand how to secure them<br>
 
 
 ## 🌐 Socials:
